@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "test-product-search-interns"
+  },
+  "targets": {
+    "test-product-search-interns": {
+      "hosting": {
+        "productsearchdemo": [
+          "productsearchdemo"
+        ]
+      }
+    }
+  }
+}
